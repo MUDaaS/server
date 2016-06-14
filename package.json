@@ -1,0 +1,26 @@
+{
+  "name": "mudas_server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MUDaaS/server.git"
+  },
+  "authors": [
+    "Kevin Romano <kevrom@gmail.com>",
+    "Tyler Kelley <tylerckelley@gmail.com"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MUDaaS/server/issues"
+  },
+  "homepage": "https://github.com/MUDaaS/server#readme",
+  "devDependencies": {
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-react": "^5.1.1"
+  }
+}
